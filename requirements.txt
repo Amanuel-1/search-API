@@ -1,0 +1,11 @@
+flask
+nltk
+pandas
+scikit-learn
+spacy
+numpy
+python-docx
+PyPDF2
+requests
+beautifulsoup4
+flask-cors
